@@ -24,7 +24,7 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset (`t
 - Google Colab
 
 ## Files
-- `titanic_eda.ipynb` - Complete analysis code
+- `titanic dataset EDA.ipynb` - Complete analysis code
 - `train.csv` - Dataset used for analysis
 
 ## How to View
