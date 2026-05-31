@@ -1,31 +1,32 @@
-# Titanic Dataset - Exploratory Data Analysis (EDA)
+# Titanic EDA Project
 
-## Project Overview
-This project performs Exploratory Data Analysis (EDA) on the Titanic dataset (`train.csv`). The goal is to understand patterns, relationships, and insights from the data.
+## 📌 Project Overview
+Exploratory Data Analysis (EDA) on Titanic dataset to understand passenger survival patterns.
 
-## What I Did
-- Loaded and explored the dataset (891 passengers)
-- Handled missing values
-- Created visualizations (heatmaps, count plots, histograms, box plots)
-- Analyzed survival patterns by gender, class, age, and fare
+## 📊 Dataset
+- Source: Kaggle Titanic Competition
+- Rows: 891 passengers
 
-## Key Insights from Analysis
+## 🔍 Key Insights (From My Analysis)
 
-| Feature | Finding |
-|---------|---------|
-| Gender | Females (74%) survived more than males (19%) |
-| Class | 1st class (63%) survived more than 3rd class (24%) |
-| Age | Children under 10 had higher survival rate |
-| Fare | Higher fare passengers survived more |
+Overall survival rate: 38.4%
 
-## Tools Used
-- Python (Pandas, NumPy)
-- Visualization (Matplotlib, Seaborn)
+Survival by gender:
+- Female: 74.2%
+- Male: 18.9%
+
+## 📈 Key Takeaways
+- Females (74.2%) survived much more than males (18.9%)
+- Overall survival rate was only 38.4%
+
+## 🛠️ Tools Used
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Google Colab
 
-## Files
-- `titanic dataset EDA.ipynb` - Complete analysis code
-- `train.csv` - Dataset used for analysis
+## 📂 Files
+- titanic_eda.py - Complete EDA code
+- train.csv - Titanic dataset
 
-## How to View
-Open `titanic dataset EDA.ipynb` in Google Colab or Jupyter Notebook and run all cells.
+## 🔗 Connect with Me
+- GitHub: https://github.com/vsreepoojitha
+- LinkedIn: https://www.linkedin.com/in/vankayala-sree-poojitha-71226039bb or Jupyter Notebook and run all cells.
