@@ -28,5 +28,5 @@ Survival by gender:
 - train.csv - Titanic dataset
 
 ## 🔗 Connect with Me
-- GitHub: https://github.com/vsreepoojitha
-- LinkedIn: https://www.linkedin.com/in/vankayala-sree-poojitha-71226039bb or Jupyter Notebook and run all cells.
+- GitHub:https://github.com/vsreepoojitha
+- LinkedIn: :https://www.linkedin.com/in/vankayala-sree-poojitha-71226039b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app or Jupyter Notebook and run all cells.
